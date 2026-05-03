@@ -1,0 +1,19 @@
+{
+  "name": "PMP 全攻略",
+  "short_name": "PMP",
+  "description": "PMP 考試刷題 + 講義 PWA、600 題 PMI 級情境題 + 16 章圖文講義",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
